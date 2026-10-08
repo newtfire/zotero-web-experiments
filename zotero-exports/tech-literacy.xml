@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Exported from Zotero</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated from Zotero database</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <head>"Digital Native" in Perspective</head>
+            </listBibl>
+            <listBibl>
+                <head>GenAI Element?</head>
+            </listBibl>
+            <listBibl>
+                <head>ICILS Reports</head>
+            </listBibl>
+            <listBibl>
+                <head>Old v New Tech</head>
+                <listBibl>
+                    <head>Samples</head>
+                    <listBibl>
+                        <head>Classwork/Expected Knowledge</head>
+                    </listBibl>
+                    <listBibl>
+                        <head>UI in Operating Systems</head>
+                    </listBibl>
+                </listBibl>
+            </listBibl>
+            <listBibl>
+                <head>Other Variables</head>
+            </listBibl>
+        </body>
+    </text>
+</TEI>
